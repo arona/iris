@@ -3,8 +3,20 @@ iris
 
 A template for beautiful, minimalist websites.
 
-This template uses many sources of which I am thankful.
+Resources:
 
-All three of these can be found at codepen.io
+All three of these sources can be found at codepen.io
 
-These will be listed later.
+Fixed Image Backgrounds
+
+http://codepen.io/dropside/pen/bxhke
+
+Highlight Text Buttons
+
+http://codepen.io/NobodyRocks/pen/vEKGC
+
+Hover Boxes
+
+http://codepen.io/scottdavis/pen/eBdGx
+
+Colored Text Boxes
